@@ -163,4 +163,6 @@ pause >nul
 
 - If you would have any questions or concerns, please leave your comments. I would be glad to explain in more details. Thank you so much for all your feedback and support!
 
-## Prince Solomon ✅
+## Authors :black_nib:
+
+[Prince Solomon](https://github.com/princexz)
